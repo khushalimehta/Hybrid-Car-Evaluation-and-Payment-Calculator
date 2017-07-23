@@ -1,0 +1,10 @@
+C:\fall 2016\C#\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\fall 2016\C#\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\fall 2016\C#\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.Form1.resources
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.Cache
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\fall 2016\C#\assignment2\assignment2\obj\Debug\assignment2.Form3.resources
